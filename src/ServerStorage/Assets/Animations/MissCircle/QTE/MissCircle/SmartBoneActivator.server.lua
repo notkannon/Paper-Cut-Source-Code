@@ -1,0 +1,1 @@
+require(game.ReplicatedStorage.Package.SmartBone).Start()
